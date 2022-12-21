@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    background: url("../img/bg8.jpg") fixed;
+    background-size: cover;
+    /* color: whitesmoke; */
+}
+
+.menu {
+    background: rgba(0, 0, 0, 0.5);
+    float: left;
+    border: 2px solid rgb(255, 255, 0);
+    border-radius: 15px;
+    box-shadow: 0 0 25px rgb(255, 255, 0);
+    width: 11%;
+    margin-left: 2%;
+    margin-top: 2%;
+    margin-right: 2%;
+    padding: 1%;
+}
+
+.link {
+    text-decoration: none;
+    font-family: cursive;
+}
+
+#m-PT {
+    color: rgb(255, 255, 0);
+    font-family: 'Franklin Gothic Medium';
+    font-size: 15pt;
+}
+
+#greetings {
+    font-family: Impact;
+    font-size: 25pt;
+    text-align: center;
+    color: rgb(255, 255, 0);
+    padding: 3pt;
+    color: yellow;
+    text-shadow:
+        0 0 40px rgb(200, 255, 0),
+        0 0 80px rgb(190, 275, 0),
+        0 0 900px rgb(175, 255, 0),
+        0 0 100px rgb(250, 275, 0),
+        0 0 150px rgb(150, 255, 0);
+}
+
+.content {
+    color: white;
+    padding-right: 15%;
+    text-align: center;
+    font-family: cursive;
+    font-size: 17pt;
+}

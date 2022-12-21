@@ -1,0 +1,125 @@
+body {
+    margin: 0;
+    background: url("../img/bg8.jpg") fixed;
+    background-size: cover;
+    color: whitesmoke;
+}
+
+.header {
+    background: rgba(0, 0, 0, 0);
+}
+
+#greetings {
+    font-family: Impact;
+    font-size: 25pt;
+    text-align: center;
+    color: rgb(255, 255, 0);
+    padding: 3pt;
+    color: yellow;
+    text-shadow:
+        0 0 40px rgb(200, 255, 0),
+        0 0 80px rgb(190, 275, 0),
+        0 0 900px rgb(175, 255, 0),
+        0 0 100px rgb(250, 275, 0),
+        0 0 150px rgb(150, 255, 0);
+}
+
+
+#call {
+    font-family: cursive;
+    font-size: 17pt;
+    padding: 7pt;
+}
+
+#sun {
+    font-family: cursive;
+    font-size: 11pt;
+    padding: 2pt;
+}
+
+/* #market-title {
+    color: rgb(255, 255, 0);
+} */
+
+.menu {
+    background: rgba(0, 0, 0, 0.5);
+    float: left;
+    border: 2px solid rgb(255, 255, 0);
+    border-radius: 15px;
+    box-shadow: 0 0 25px rgb(255, 255, 0);
+    width: 11%;
+    margin-left: 2%;
+    margin-top: 2%;
+    margin-right: 2%;
+    padding: 1%;
+}
+
+
+#m-PT {
+    color: rgb(255, 255, 0);
+    font-family: 'Franklin Gothic Medium';
+    font-size: 15pt;
+}
+
+.content {
+    padding-right: 15%;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 17pt;
+}
+
+#question {
+    color: rgb(255, 255, 0);
+    font-family: cursive;
+    font-size: 18pt;
+    text-align: center;
+}
+
+.link {
+    text-decoration: none;
+    font-family: cursive;
+}
+
+
+
+
+
+
+
+
+/* h1 {
+    font-family: cursive;
+    font-size: 23pt;
+    color: rgb(210, 135, 200);
+    text-align: center;
+}
+
+h2 {
+    font-family: cursive;
+    font-size: 15pt;
+    color: rgb(150, 175, 200);
+    text-align: center;
+}
+
+h3 {
+    font-family: cursive;
+    font-size: 11pt;
+    color: rgb(205, 190, 230);
+    text-align: center;
+} */
+
+
+
+/* @font-face {
+    font-family: 'ComingSoon-Regular', sans-serif;
+    src: local('ComingSoon-Regular'),
+        url('/fonts/ComingSoon-Regular.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+} */
+
+/* #content {
+    border: 1px solid #000;
+    margin-left: 2%;
+    margin-right: 2%;
+} */
